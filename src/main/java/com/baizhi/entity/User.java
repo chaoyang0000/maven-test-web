@@ -1,5 +1,8 @@
 package com.baizhi.entity;
 
+/**
+ * 这是一个类 你知道吗
+ */
 public class User {
     private Integer id;
     private String name;
