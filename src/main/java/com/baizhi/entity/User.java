@@ -1,7 +1,7 @@
 package com.baizhi.entity;
 
 /**
- *
+ *这个实体类没有了有参构造
  */
 public class User {
     private Integer id;
